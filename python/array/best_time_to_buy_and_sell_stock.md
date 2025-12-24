@@ -1,5 +1,4 @@
-# 📉 Best Time to Buy and Sell Stock: The Lazy Genius Solution
-
+# 📉 Best Time to Buy and Sell Stock
 ---
 
 ### 🏷️ Problem Tags
