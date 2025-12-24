@@ -1,4 +1,4 @@
-# 🐍 Two Sum: The Lazy Genius Solution
+# 🐍 Two Sum
 
 ---
 
