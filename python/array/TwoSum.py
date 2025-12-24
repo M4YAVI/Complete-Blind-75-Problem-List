@@ -9,7 +9,6 @@ Category    : Array
 Technique   : Hash Map (Dictionary)
 Pattern     : Complement Search
 Difficulty  : Easy
-Similar To  : 167. Two Sum II, 15. 3Sum, 1. Two Sum (Wait, this IS Two Sum)
 ```
 
 ---
